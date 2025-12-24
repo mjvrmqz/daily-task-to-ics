@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Work on the Project Start-Up shortcut in Apple Shortcuts alongside Project Phases\, focusing on Phase One with bug and UI fixes for about two hours in a relaxed session.
-DTEND:20251224T153300Z
-DTSTART:20251224T133300Z
+DTEND:20251224T144500Z
+DTSTART:20251224T134500Z
 SUMMARY:Group 3
-UID:aa5e6da3-b6cd-4cb4-a28d-c670c3dc3cfa@aa5e.org
+UID:2699a099-3ad9-49ed-b921-10658b2951ab@2699.org
 END:VEVENT
 END:VCALENDAR
