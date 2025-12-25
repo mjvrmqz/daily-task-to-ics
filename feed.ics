@@ -2,9 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Work on UI changes for Apple Shortcuts and address any bugs or faulty areas that require attention. Estimated time to complete is about one hour. #ActionableSteps #NotionCalendar
 DTEND:20251225T021300Z
 DTSTART:20251225T011300Z
 SUMMARY:Group 1
-UID:df0b7bf3-5b0b-4294-b9d4-4ddfdcb72fbb@df0b.org
+UID:207e2305-b5ed-4bfc-a7e4-4bcd675b231b@207e.org
 END:VEVENT
 END:VCALENDAR
