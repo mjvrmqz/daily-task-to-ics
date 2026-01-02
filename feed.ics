@@ -2,9 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Work on Apple Shortcuts related to work for about two hours\, focusing on improving Finder management and making shortcut UIs clear and understandable. #ActionableSteps #NotionCalendar
+DTEND:20260102T171400Z
+DTSTART:20260102T151400Z
+SUMMARY:Group 2
+UID:92cdea62-29a2-49c3-80d5-dd35d851eb24@92cd.org
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20260102T140500Z
 DTSTART:20260102T120500Z
 SUMMARY:Group 1
-UID:769eed30-cc6c-4576-bfcf-4c2c049521de@769e.org
+UID:449820b0-3cda-421f-b888-0d321e2bcca1@4498.org
 END:VEVENT
 END:VCALENDAR
