@@ -2,16 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20260106T215700Z
-DTSTART:20260106T195700Z
+DESCRIPTION:Work on the Project Phases shortcut by focusing on parsing and organizing the shortcut. Estimated time to complete is about 3 hours. #ActionableSteps #NotionCalendar #macOS
+DTEND:20260109T023800Z
+DTSTART:20260108T233800Z
 SUMMARY:Group 1
-UID:4ca1fcfc-980e-4748-9d23-ba5e62d19bed@4ca1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Spend about 2 hours organizing and working on shortcuts\, focusing on figuring out what tasks to prioritize and get some initial work done. #ActionableSteps #NotionCalendar #macOS
-DTEND:20260103T160900Z
-DTSTART:20260103T130900Z
-SUMMARY:Group 1
-UID:2aadd20e-ab0d-4c44-b53a-b8996d1d8f6f@2aad.org
+UID:1e22f70d-489c-4b58-9422-c8e435970849@1e22.org
 END:VEVENT
 END:VCALENDAR
